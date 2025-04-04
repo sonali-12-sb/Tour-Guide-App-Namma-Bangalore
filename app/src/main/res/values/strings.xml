@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">NammaBangalore</string>
+    <string name="title">Namma Bangalore</string>
+    <string name="start_btn">Start Exploring</string>
+    <string name="quote">The Silicon Valley Of India</string>
+    <string name="description">Bangalore or Benguluru is the "Silicon Valley of India" and is also famous for its natural charm owing to several green parks surrounding the city. The capital city of Karnataka is full of energy as it is a beautiful amalgamation of culture and modernity!</string>
+    <string name="explore">Explore</string>
+    <string name="places">Places</string>
+    <string name="parks">Parks</string>
+    <string name="temples">Temples</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="more_button">More..</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="places_image">Places Image</string>
+    <string name="cubbon_park">Cubbon Park</string>
+    <string name="title_2">Title</string>
+    <string name="address">Address</string>
+    <string name="opening_hrs">Opening Hours</string>
+
+    <!-- ParksFragment.java -->
+    <string name="cubbon_park_title">Cubbon Park</string>
+    <string name="cubbon_park_address">Address: Kasturba Rd, behind High Court of Karnataka, Ambedkar Veedhi, Sampangi Rama Nagara, Bengaluru, Karnataka 560001</string>
+    <string name="cubbon_park_opening_hours">Opens At: Tuesday to Sunday between 6 AM and 6 PM</string>
+    <string name="cubbon_park_more_details">Cubbon Park, officially Sri Chamarajendra Park, is a landmark park in Bengaluru, located in the heart of the city in the Central Administrative Area.</string>
+
+    <string name="wonderla_title">Wonderla Amusement Park</string>
+    <string name="wonderla_address">Address: 28th km, Mysore Rd, Bengaluru, Karnataka 562109</string>
+    <string name="wonderla_opening_hours">Opens At: Everyday from 11:00 AM to 07:00 PM</string>
+    <string name="wonderla_more_details">Amusement park with roller coasters, a ferris wheel and water rides, plus virtual reality experiences. Tickets varies as per age.</string>
+
+    <string name="bannerghatta_title">Bannerghatta National Park</string>
+    <string name="bannerghatta_address">Address: Bengaluru, Karnataka 560083</string>
+    <string name="bannerghatta_opening_hours">Opens At: 09:30 AM – 05:00 PM daily, except on Tuesdays</string>
+    <string name="bannerghatta_more_details">It was founded in 1970 and declared as a national park in 1974. In 2002, a small portion of the park became a zoological garden, the Bannerghatta Biological Park. Tickets varies as per age.</string>
+
+    <string name="bugle_rock_title">Bugle Rock Park</string>
+    <string name="bugle_rock_address">Address: WHV9+3QM, Bull Temple Rd, Basavanagudi, Bengaluru, Karnataka 560019</string>
+    <string name="bugle_rock_opening_hours">Opens At: Everyday from 5:30 – 10 AM and 4 – 8:30 PM</string>
+    <string name="bugle_rock_more_details">Serene park shaded by a tree canopy featuring gardens, waterfalls and fountains, plus three temples.</string>
+
+    <!-- PlacesFragment.java-->
+    <string name="vidhana_soudha_title">Vidhana Soudha</string>
+    <string name="vidhana_soudha_address">Address: XHHR+R8X, Ambedkar Bheedhi, Sampangi Rama Nagara, Bengaluru, Karnataka 560001</string>
+    <string name="vidhana_soudha_opening_hours">Opens At: Monday to Friday 10:00 AM - 5:30 PM (Closed on weekends and public holidays)</string>
+    <string name="vidhana_soudha_more_details">Vidhana Soudha is a building in Bangalore, India which serves as the seat of the state legislature of Karnataka. It is constructed in Neo-Dravidian style and completed in 1956.</string>
+
+    <string name="lalbagh_botanical_garden_title">Lalbagh Botanical Garden</string>
+    <string name="lalbagh_botanical_garden_address">Address: Mavalli, Bengaluru, Karnataka 560004</string>
+    <string name="lalbagh_botanical_garden_opening_hours">Opens At: Everyday 9 AM - 5 PM</string>
+    <string name="lalbagh_botanical_garden_more_details">Lalbagh Botanical Garden or Lalbagh, is an botanical garden in Bangalore, with an over 200-year history. First planned and laid out during the dalavaiship of Hyder Ali, the garden was later managed under numerous British Superintendents before Indian Independence.</string>
+
+    <string name="bengaluru_palace_title">Bengaluru Palace</string>
+    <string name="bengaluru_palace_address">Address: Bengaluru, Karnataka</string>
+    <string name="bengaluru_palace_opening_hours">Opens At: Tuesday to Sunday 10 AM to 5:30 PM, Closed on Mondays</string>
+    <string name="bengaluru_palace_more_details">Bangalore Palace is a 19th century royal palace located in Bangalore, India, in an area that was owned by the Rev. John Garrett, the first principal of the Central High School in Bangalore</string>
+
+    <!-- RestaurantsFragment.java-->
+    <string name="black_pearl_title">The Black Pearl</string>
+    <string name="black_pearl_address">Address: Vikas Tech Park, 105, 4th Floor, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095</string>
+    <string name="black_pearl_opening_hours">Opens At: Everyday 11 AM - 4 PM, 6 PM - 11:30 PM</string>
+    <string name="black_pearl_more_details">Themed bar and global eatery offering diverse dishes and a buffet amid pirate decor and nautical accents.
+ \n Service options:
+ \n - Reservations required
+ \n - Has all you can eat
+ \n - Serves vegetarian dishes</string>
+
+    <string name="high_ultra_lounge_title">High Ultra Lounge</string>
+    <string name="high_ultra_lounge_address">Address: 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055</string>
+    <string name="high_ultra_lounge_opening_hours">Opens At: Everyday 4 PM - 1 AM</string>
+    <string name="high_ultra_lounge_more_details">Sleek, modern venue offering far-reaching views over the city, DJ music and a varied Asian menu.
+ \n Service options:
+ \n - Has rooftop seating
+ \n - Has outdoor seating
+ \n - Has live music</string>
+
+    <string name="byg_brewski_brewing_title">Byg Brewski Brewing</string>
+    <string name="byg_brewski_brewing_address">Address: SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi, Bengaluru, Karnataka 560077</string>
+    <string name="byg_brewski_brewing_opening_hours">Opens At: Everyday 12 PM - 1 AM</string>
+    <string name="byg_brewski_brewing_more_details">Service options:
+ \n - Has live performances
+ \n - Has karaoke
+ \n - Serves food at bar</string>
+
+    <string name="gufha_restaurant_title">Gufha Restaurant</string>
+    <string name="gufha_restaurant_address">Address: 79/8, Diagonal Rd, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560001</string>
+    <string name="gufha_restaurant_opening_hours">Opens At: Everyday 12 PM - 4 PM, 7 PM - 11 PM</string>
+    <string name="gufha_restaurant_more_details">Unique, cave-themed restaurant and bar in a hotel serving Continental, Chinese and Indian fare.
+ \n Service options:
+ \n - Has all you can eat
+ \n - Has private dining room
+ \n - Serves vegetarian dishes</string>
+
+    <!-- TemplesFragment.java -->
+    <string name="iskcon_temple_title">ISKCON Temple</string>
+    <string name="iskcon_temple_address">Address: Hare Krishna Hill, Chord Rd, Rajajinagar, Bengaluru, Karnataka 560010</string>
+    <string name="iskcon_temple_opening_hours">Opens At: Monday to Friday 7:15 AM - 1 PM, 4:15 PM - 8:20 PM, Saturday and Sunday 7:15 AM - 8:20 PM</string>
+    <string name="iskcon_temple_more_details">Sri Radha Krishna-Chandra Temple is one of the largest Krishna-Hindu temples in the world. The temple is dedicated to Hindu deities Radha Krishna and propagates monotheism as mentioned in Chandogya Upanishad.</string>
+
+    <string name="venkataramana_temple_title">Kote Shri Prasanna Venkataramana Swami Temple</string>
+    <string name="venkataramana_temple_address">Address: 39, Krishna Rajendra Rd, Kalasipalya, Bengaluru, Karnataka 560002</string>
+    <string name="venkataramana_temple_opening_hours">Opens At: Monday to Sunday 8 AM - 12 PM, 6 PM - 8 PM</string>
+    <string name="venkataramana_temple_more_details">The temple was built in 1689 in Dravidian and Vijayanagara style by King Chikka Devaraja Wodeyar, then ruler of Mysore.</string>
+
+    <string name="marks_cathedral_title">St. Marks Cathedral</string>
+    <string name="marks_cathedral_address">Address: 1, Mahatma Gandhi Rd, Shanthala Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001</string>
+    <string name="marks_cathedral_opening_hours">"Opens At: Monday Closed \n Tuesday to Friday 9:30 AM to 5 PM \n Saturday and Sunday 9:30 AM to 1 PM"</string>
+    <string name="marks_cathedral_more_Details">St. Marks Cathedral, dedicated to Saint Mark the Evangelist, is the cathedral of the Diocese of Central Karnataka of the Church of South India.</string>
+
+    <string name="shanmukha_temple_title">Shrungagiri Sri Shanmukha Swami Gudi</string>
+    <string name="shanmukha_temple_address">Address: BEML, Kempegowda Rd, 5th Stage, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098</string>
+    <string name="shanmukha_temple_opening_hours">Opens At: Monday to Sunday 7 AM - 12:30 PM and 4:30 AM - 9 PM</string>
+    <string name="shanmukha_temple_more_details">Prayer complex with a soaring temple tower featuring the six faces of Hindu deity Lord Shanmukha.</string>
+
+    <string name="omkar_hills_title">Omkar Hills</string>
+    <string name="omkar_hills_address">Address: Omkar Hills, Shrinivasapura, Bengaluru, Karnataka 560060</string>
+    <string name="omkar_hills_opening_hours">Opens At: Monday to Saturday 7 AM - 12:45 PM, Sunday 7 AM - 9 PM</string>
+    <string name="omkar_hills_more_details">This is a beautiful white temple dedicated to Lord Shiva. There are twelve jyotirlingas within the temple and one parikrama around the temple will take you on a spiritual journey across India.</string>
+
+    <string name="nageshwara_temple_title">Nageshwara Temple Complex</string>
+    <string name="nageshwara_temple_address">Address: BBMP office, Begur Rd, opposite to Begur, Begur, Bengaluru, Karnataka 560068</string>
+    <string name="nageshwara_temple_opening_hours">Opens At: Monday to Sunday 6: 30 AM - 11:30 AM, 5:30 PM - 8 PM</string>
+    <string name="nageshwara_temple_more_details">The Nageshvara temple complex is located in Begur, Bangalore. Two shrines within the temple complex, the Nageshvara and Nageshvarasvami were commissioned during the rule of Western Ganga Dynasty Kings Nitimarga I and Ereyappa Nitimarga II.</string>
+
+</resources>

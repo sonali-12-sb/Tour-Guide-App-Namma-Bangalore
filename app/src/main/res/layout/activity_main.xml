@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/nammaBangalore"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:src="@drawable/lalbagh_park" />
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/TilteTextView"
+        android:text="@string/title" />
+
+    <TextView
+        android:id="@+id/quote_text"
+        style="@style/QuoteTextViewStyle"
+        android:text="@string/quote" />
+
+    <TextView
+        android:id="@+id/description_text"
+        style="@style/DescriptionTextViewStyle"
+        android:text="@string/description" />
+
+
+    <RelativeLayout
+        android:id="@+id/button"
+        style="@style/CustomRelativeLayoutStyle">
+
+        <Button
+            android:id="@+id/start_button"
+            style="@style/CustomButtonStyle"
+            android:text="@string/start_btn" />
+
+    </RelativeLayout>
+</LinearLayout>
