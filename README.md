@@ -45,5 +45,5 @@ The app's UI is **fully responsive**, ensuring a seamless and optimal viewing ex
 
 ## ⭐ Review from Udacity
 
-  <img src="tourguide/tour_guide_portal review.png" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tourguide/tour_guide_portal review.png" width="300">
+  <img src="tourguide/tour_guide_portal review.png" width="700">
+  <img src="tourguide/nammaBamgaloreEmailReview.jpg" width="200">
