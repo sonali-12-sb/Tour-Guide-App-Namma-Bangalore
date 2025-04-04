@@ -38,13 +38,13 @@ Each place is displayed with an **image**, followed by its **address** and **vis
 The app's UI is **fully responsive**, ensuring a seamless and optimal viewing experience across various screen sizes and devices.
 
 ### 🖼️ Screenshots  
-  <img src="tourguide/tour1.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tourguide/tour2.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tourguide/tour1.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tourguide/tour2.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tourguide/tour3.jpg" width="250">&nbsp;&nbsp;
-  <img src="tourguide/tour4.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tourguide/tour5.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tourguide/tour4.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tourguide/tour5.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tourguide/tour6.jpg" width="250">&nbsp;
-  <img src="tourguide/tour7.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tourguide/tour7.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tourguide/tour8.jpg" width="250">
           
 ---
